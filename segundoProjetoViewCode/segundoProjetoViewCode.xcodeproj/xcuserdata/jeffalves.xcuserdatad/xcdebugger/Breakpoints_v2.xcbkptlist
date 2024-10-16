@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1FA57380-00AC-4C3F-AA1A-A2AFB075845A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF42B877-365F-41B5-9A62-0A83D58B05F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "loginButton"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CF42B877-365F-41B5-9A62-0A83D58B05F3 - dfa5039745abb6a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in segundoProjetoViewCode.LoginScreen.loginButton.getter : __C.UIButton"
+                  moduleName = "segundoProjetoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/segundoProjetoViewCode/segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "CF42B877-365F-41B5-9A62-0A83D58B05F3 - dfa5039745abb6a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in segundoProjetoViewCode.LoginScreen.loginButton.getter : __C.UIButton"
+                  moduleName = "segundoProjetoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/segundoProjetoViewCode/segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33D52613-DD5F-4560-9322-5ADED3068C25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "TappedLoginButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33D52613-DD5F-4560-9322-5ADED3068C25 - c962a87f0e308d61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "segundoProjetoViewCode.LoginScreen.TappedLoginButton(__C.UIButton) -&gt; ()"
+                  moduleName = "segundoProjetoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/segundoProjetoViewCode/segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "33D52613-DD5F-4560-9322-5ADED3068C25 - c962a87f0e308d61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "segundoProjetoViewCode.LoginScreen.TappedLoginButton(__C.UIButton) -&gt; ()"
+                  moduleName = "segundoProjetoViewCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/segundoProjetoViewCode/segundoProjetoViewCode/LoginScreen/LoginScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
